@@ -1,0 +1,9 @@
+.header {
+    background-image: url(../../images/header/header__background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 918px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}

@@ -1,0 +1,10 @@
+.search {
+    width: 475px;
+    height: 62px;
+    background: #FFFFFF;
+    border-radius: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}

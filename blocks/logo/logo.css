@@ -1,0 +1,12 @@
+.logo {
+    height: 34px;
+    width: 100px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}

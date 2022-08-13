@@ -1,0 +1,10 @@
+.header__description {
+    margin: 0;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #B7E6FF;
+    padding-bottom: 58px;
+}

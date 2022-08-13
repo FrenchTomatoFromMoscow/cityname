@@ -1,0 +1,7 @@
+.header__text {
+    display: flex;
+    flex-direction: column;
+    padding-top: 210px;
+    padding-left: 135px;
+    width: 561px;
+}

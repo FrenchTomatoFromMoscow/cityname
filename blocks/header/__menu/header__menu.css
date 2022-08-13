@@ -1,0 +1,7 @@
+.header__menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 47px 141px 0 136px;
+    min-height: 34px;
+}
