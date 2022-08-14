@@ -1,0 +1,9 @@
+.start {
+    width: 100%;
+    min-height: 709.79px;
+    background-image: url(../../images/start/start__background.svg);
+    background-size: 1083px 709.79px;
+    background-repeat: no-repeat;
+    background-position: top 33px left 109px;
+    text-align: center;
+}

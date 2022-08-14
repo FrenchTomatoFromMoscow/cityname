@@ -1,0 +1,13 @@
+.cards__number {
+    margin: 0;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 215px;
+    line-height: 261px;
+    color: #C7CCE1;
+    opacity: 0.1;
+    z-index: -1;
+    transform: translate(0, -99px);
+    position: absolute;
+}

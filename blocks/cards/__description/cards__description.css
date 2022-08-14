@@ -1,0 +1,10 @@
+.cards__description {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: #A5ADB1;
+    margin: 0;
+    padding-top: 25px;
+}

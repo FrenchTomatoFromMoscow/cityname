@@ -1,0 +1,8 @@
+.cards__counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 83px;
+    height: 32px;
+    padding-bottom: 14px;
+}

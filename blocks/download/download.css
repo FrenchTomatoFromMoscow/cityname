@@ -1,0 +1,8 @@
+.download {
+    background-image: url(../../images/download/download__background.svg);
+    background-size: 1815.81px 1218.7px;
+    background-position: center;
+    width: 100%;
+    min-height: 1218.7px;
+    display: flex;
+}

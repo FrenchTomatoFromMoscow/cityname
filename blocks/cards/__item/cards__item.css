@@ -1,0 +1,15 @@
+.cards__item {
+    display: flex;
+    justify-content: space-between;
+    min-height: 261px;
+    width: 739px;
+    position: relative;
+}
+
+.cards__item:first-of-type {
+    padding-bottom: 365px;
+}
+
+.cards__item:last-of-type {
+    flex-direction: row-reverse;
+}

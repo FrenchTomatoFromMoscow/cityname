@@ -23,3 +23,42 @@
 @import url(../blocks/search/__button/search__button.css);
 @import url(../blocks/search/__icon/search__icon.css);
 
+@import url(../blocks/start/start.css);
+@import url(../blocks/start/__title/start__title.css);
+@import url(../blocks/start/__subtitle/start__subtitle.css);
+
+@import url(../blocks/road/road.css);
+@import url(../blocks/road/__image/road__image.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__text/cards__text.css);
+@import url(../blocks/cards/__counter/cards__counter.css);
+@import url(../blocks/cards/__number/cards__number.css);
+@import url(../blocks/cards/__icon/cards__icon.css);
+@import url(../blocks/cards/__km/cards__km.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__subtitle/cards__subtitle.css);
+@import url(../blocks/cards/__description/cards__description.css);
+@import url(../blocks/cards/__image/cards__image.css);
+
+@import url(../blocks/download/download.css);
+@import url(../blocks/download/__text/download__text.css);
+@import url(../blocks/download/__title/download__title.css);
+@import url(../blocks/download/__subtitle/download__subtitle.css);
+@import url(../blocks/download/__image/download__image.css);
+@import url(../blocks/download/__buttons/download__buttons.css);
+@import url(../blocks/download/__button/download__button.css);
+@import url(../blocks/download/__button-image/download__button-image.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__main-information/footer__main-information.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__description/footer__description.css);
+@import url(../blocks/footer/__social-links/footer__social-links.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__column-links/footer__colunm-links.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__author-name/footer__author-name.css);

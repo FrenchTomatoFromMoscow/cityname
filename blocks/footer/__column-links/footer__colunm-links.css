@@ -1,0 +1,13 @@
+.footer__column-links {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__column-links:first-of-type {
+    height: 122px;
+    width: 67px;
+}
+
+.footer__column-links:last-of-type {
+    padding-left: 128px;
+}

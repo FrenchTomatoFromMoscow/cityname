@@ -1,0 +1,9 @@
+.cards {
+    list-style-type: none;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding-left: 285px;
+    padding-top: 265px;
+    z-index: 1;
+}

@@ -1,0 +1,12 @@
+.footer__description {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #A5ADB1;
+    width: 397px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    margin: 0;
+}
