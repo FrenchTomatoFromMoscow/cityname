@@ -11,7 +11,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__links/header__links.css);
-@import url(../blocks/header/header__link/header__link.css);
+@import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__text/header__text.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__description/header__description.css);
@@ -48,6 +48,7 @@
 @import url(../blocks/download/__subtitle/download__subtitle.css);
 @import url(../blocks/download/__image/download__image.css);
 @import url(../blocks/download/__buttons/download__buttons.css);
+@import url(../blocks/download/__link/download__link.css);
 @import url(../blocks/download/__button/download__button.css);
 @import url(../blocks/download/__button-image/download__button-image.css);
 

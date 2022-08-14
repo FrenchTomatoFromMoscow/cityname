@@ -5,4 +5,9 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 26px;
+    transition: color 0.5s ease;
+}
+
+.footer__social-link:hover > .footer__social-icon {
+    color: #13F1FC;
 }
